@@ -1,0 +1,14 @@
+name: "Vietnamese Society in Oxford"
+url: http://vnoxford.github.io
+baseurl:
+markdown: kramdown
+
+navigation:
+- text: Home
+  url: /
+# - text: Constitution
+#   url: /constitution/
+# - text: Members
+#   url: /members/
+- text: Contact
+  url: /contact/

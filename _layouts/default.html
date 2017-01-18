@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="{{site.name}}" href="{{site.baseurl}}/assets/ico/favicon.ico">
+    <title>{{site.name}}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{site.baseurl}}/assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{site.baseurl}}/assets/css/jumbotron-narrow.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="header clearfix">
+        {% include header.html %}
+      </div>
+
+      <div class="row marketing">
+        {{ content }}
+      </div>
+
+      <footer class="footer">
+        {% include footer.html %}
+      </footer>
+
+    </div> <!-- /container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        TeX: {
+          equationNumbers: {autoNumber: "AMS"},
+          Macros: {
+            vec: ["{\\boldsymbol{\\mathbf #1}}", 1],
+            given: "\\lvert",
+            KL: ["{D_{\\text{KL}}\\left(#1 \\mid\\mid #2\\right)}", 2],
+            E: "\\mathbb{E}",
+            inf: "\\mathrm{inf}",
+            sup: "\\mathrm{sup}",
+            P: "\\mathbb{P}",
+            argmax: "\\mathrm{argmax}"
+          }
+        },
+        CommonHTML: { linebreaks: { automatic: true } },
+        "HTML-CSS": { linebreaks: { automatic: true } },
+        SVG: { linebreaks: { automatic: true } }
+
+      });
+    </script>
+    <script type="text/javascript"
+        src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
