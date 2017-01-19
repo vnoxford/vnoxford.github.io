@@ -19,7 +19,12 @@ with current members. Our alumni network hosts *various events across the globe*
 closely with the current VOX members on various occasions, providing assistance especially in our
 charity events.
 
-The Society is run by Oxford University students. The 2016-17 committee consists of president **Tran Quang Anh**, treasurer **Do Dinh Cao Huan**, secretary **Pham Thuy Anh**, and events coordinator **Chu Cong Son**.
+The Society is run by Oxford University students. The 2016-17 committee consists of
+- President **Tran Quang Anh**,
+- Vice-president **Tran Duc**,
+- Treasurer **Do Dinh Cao Huan**,
+- Events coordinator **Chu Cong Son**,
+- Assistant events coordinator **Nguyen Ky Anh**.
 
 If you are a prospective Oxford student, do get in touch and let us welcome you. Or if you love Vietnamese culture and would like to be involved, we very much look forward to hear from you!
 
