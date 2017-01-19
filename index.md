@@ -20,6 +20,7 @@ closely with the current VOX members on various occasions, providing assistance 
 charity events.
 
 The Society is run by Oxford University students. The 2016-17 committee consists of
+
 - President **Tran Quang Anh**,
 - Vice-president **Tran Duc**,
 - Treasurer **Do Dinh Cao Huan**,
